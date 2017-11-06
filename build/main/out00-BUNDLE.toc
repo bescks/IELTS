@@ -1,0 +1,3 @@
+([('main',
+   '/Users/gengdongjie/WorkSpace/PycharmProjects/2017-11-05-IELTS/dist/main',
+   'EXECUTABLE')],)
